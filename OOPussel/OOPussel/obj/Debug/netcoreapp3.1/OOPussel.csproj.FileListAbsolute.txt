@@ -1,0 +1,39 @@
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.exe
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.deps.json
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.json
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.dev.json
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csprojAssemblyReference.cache
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfoInputs.cache
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfo.cs
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csproj.CoreCompileInputs.cache
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\awite\OneDrive\Skrivbord\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.genruntimeconfig.cache
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.exe
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.deps.json
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.json
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csprojAssemblyReference.cache
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\Gamer\Desktop\Spelprojekt C#\Spel C#\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.exe
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.deps.json
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.runtimeconfig.dev.json
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\bin\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csprojAssemblyReference.cache
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.dll
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.pdb
+C:\Users\Gamer\OneDrive\Kod\OOPussel\OOPussel\obj\Debug\netcoreapp3.1\OOPussel.genruntimeconfig.cache
